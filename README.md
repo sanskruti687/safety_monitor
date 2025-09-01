@@ -7,7 +7,7 @@ This project is an AI-powered system that analyzes live camera feeds to monitor 
 This is a representative image. A screenshot of the actual application should be placed here
 
 ✨ Features
-Real-time Camera Feed: Accesses the user's webcam for live video monitoring.
+Real-time Camera Feed: Accesses the user's webcam for live video monitoring
 
 Simulated AI Detection: The backend simulates the detection of safety violations (e.g., missing helmets or vests).
 
