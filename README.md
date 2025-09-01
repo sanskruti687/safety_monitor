@@ -4,7 +4,7 @@ This is an AI-powered system that analyzes live camera feeds to monitor worker s
 🛡️ AI Worker Safety Monitoring System
 This project is an AI-powered system that analyzes live camera feeds to monitor worker safety in real-time. It automatically detects simulated safety violations, such as missing PPE, and sends instant alerts to a web dashboard.
 
-This is a representative image. A screenshot of the actual application should be placed here.
+This is a representative image. A screenshot of the actual application should be placed here
 
 ✨ Features
 Real-time Camera Feed: Accesses the user's webcam for live video monitoring.
